@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wUR6bTVA8rvI/BEJebtKv52wu9ZhiqLmjcNqV0tTVN8d67UwxSsxdEEd6qQ9Nfxj7GjcfgODdDRYwemYd+YosA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pgabr\\Documents\\microserviceDotnet6\\microservices-dotnet6\\restCalculator\\restCalculator\\restCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pgabr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\pgabr\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pgabr\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\pgabr\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\pgabr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\pgabr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
